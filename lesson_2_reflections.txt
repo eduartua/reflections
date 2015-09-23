@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+To start making control versioning of that repo we have to initialize it. It is the only way our git system can recognize this repository as a git repository.
