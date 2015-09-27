@@ -6,7 +6,7 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    In that case an automation process is better because the most important changes are going to be created locally not in the remote. So, most changes created on the remote can be addressed to the local repo whenever they happen.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
