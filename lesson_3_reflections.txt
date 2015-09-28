@@ -18,7 +18,7 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    It is useful if we are in the case that we are going to go offline for a while. Having a copy of the remote repo makes you keep you updated qith the last version of the project which is very valuable while working collaborativelly.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
