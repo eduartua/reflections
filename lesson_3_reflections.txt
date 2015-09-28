@@ -23,7 +23,7 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I cannot see anything easier withou Git or GitHub. Other methods of work collaborativelly make you invest a lot a time, reviewing files, reading documentation, an so on. Git and Github offer a new paradigma based on atomic changes stored historically over time that can be accessed for anyone working on the project. Also, that way of keep tracking changes increase the computational performance due to the way machines resources are used.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
