@@ -28,4 +28,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Always we got a new idea that we want to play with like a new feature, an experiment. It is better to keep the working code on the master branch, and start playing in a new branch. This way you are no going to break the working code which is extremelly important if you are working with other developers in the same project. Also, you will decide whether or not merge the new features into the master branch in the future.
